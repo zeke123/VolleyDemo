@@ -2,9 +2,7 @@ package com.example.volleydemo;
 
 import java.util.HashMap;
 import java.util.Map;
-
 import org.json.JSONObject;
-
 import com.android.volley.Request.Method;
 import com.android.volley.AuthFailureError;
 import com.android.volley.Response;
